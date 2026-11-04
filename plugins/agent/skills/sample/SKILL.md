@@ -3,5 +3,5 @@ name: sample
 description: Reports a synthetic fixture marker when explicitly requested.
 ---
 
-When asked for the fixture marker, respond with `agent-delta`.
+When asked for the fixture marker, respond with `agent-epsilon`.
 No external services, credentials, commands or user files are required.
