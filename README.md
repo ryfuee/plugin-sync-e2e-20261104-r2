@@ -1,2 +1,3 @@
-# plugin-sync-e2e-20261104-r2
-Synthetic public fixtures for plugin synchronization regression testing. No credentials or user data.
+# Plugin synchronization fixtures
+
+Synthetic public fixtures for regression testing. No credentials, user data, external commands or services are used.

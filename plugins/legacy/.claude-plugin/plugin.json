@@ -1,0 +1,10 @@
+{
+  "name": "sync-legacy-r2-20261104",
+  "version": "0.0.1",
+  "description": "Synthetic legacy plugin synchronization fixture.",
+  "license": "MIT",
+  "keywords": [
+    "fixture",
+    "testing"
+  ]
+}

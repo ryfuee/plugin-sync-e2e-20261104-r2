@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "sync-agent-r2-20261104",
+  "version": "0.0.1",
+  "description": "Synthetic agent plugin synchronization fixture.",
+  "license": "MIT",
+  "keywords": [
+    "fixture",
+    "testing"
+  ]
+}

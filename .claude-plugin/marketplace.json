@@ -1,0 +1,13 @@
+{
+  "name": "sync-e2e-fixture",
+  "plugins": [
+    {
+      "name": "sync-agent-r2-20261104",
+      "source": "./plugins/agent"
+    },
+    {
+      "name": "sync-legacy-r2-20261104",
+      "source": "./plugins/legacy"
+    }
+  ]
+}
