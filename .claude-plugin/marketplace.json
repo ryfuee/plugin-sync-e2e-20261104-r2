@@ -8,14 +8,6 @@
     {
       "name": "sync-legacy-r2-20261104",
       "source": "./plugins/legacy"
-    },
-    {
-      "name": "gate-agent-20261116",
-      "source": "./plugins/gate-agent-20261116"
-    },
-    {
-      "name": "gate-legacy-20261116",
-      "source": "./plugins/gate-legacy-20261116"
     }
   ]
 }
