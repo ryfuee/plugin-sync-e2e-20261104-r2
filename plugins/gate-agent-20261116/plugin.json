@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "gate-agent-20261116",
+  "version": "1.0.0",
+  "description": "Dedicated PPE gate validation upstream revision B"
+}
